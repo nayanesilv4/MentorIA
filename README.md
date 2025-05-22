@@ -19,8 +19,8 @@ O projeto tem como foco auxiliar calouros e calouras a navegarem pelos desafios 
 ```
 MentorIA/
 ├── .ipynb_checkpoints/
-├── mentorIA.ipynb      <- Código principal do projeto (executável no Google Colab)
-├── README.md           <- Este arquivo
+├── mentorIA.ipynb      <- (executável no Google Colab)
+├── README.md          
 ```
 
 ## 📚 Funcionalidades
